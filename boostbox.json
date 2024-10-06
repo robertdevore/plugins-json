@@ -1,0 +1,13 @@
+{
+	"name": "BoostBox",
+	"version": "2.0.2",
+	"download_url": "https://github.com/deviodigital/boostbox/archive/refs/tags/2.0.1.zip",
+
+	"homepage": "https://robertdevore.com",
+	"requires": "4.5",
+	"tested": "6.6.2",
+	"last_updated": "2024-10-05 18:00:00",
+
+	"author": "Devio Digital",
+	"author_homepage": "https://deviodigtal.com/",
+}
